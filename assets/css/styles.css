@@ -527,12 +527,24 @@ img {
   width: 85%;
 }
 
+.skills__angular {
+  width: 70%;
+}
+
 .skills__figma {
   width: 90%;
 }
 
 .skills__photoshop {
   width: 40%;
+}
+
+.skills__ionic{
+  width: 80%;
+}
+
+.skills__deployment {
+  width: 90%;
 }
 
 .skills__close .skills__list {
