@@ -754,6 +754,10 @@ img {
   margin-bottom: var(--mb-0-5);
 }
 
+.portfolio__button{
+  margin-top: 10px;
+}
+
 .portfolio__button:hover .button__icon {
   transform: translateX(0.25rem);
 }
