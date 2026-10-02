@@ -304,7 +304,7 @@ img {
 }
 
 .home__blob-img {
-  width: 170px;
+  width: 200px;
 }
 
 .home__data {
@@ -525,6 +525,51 @@ img {
 
 .skills__react {
   width: 85%;
+}
+
+.skills__typescript {
+  width: 85%;
+}
+
+.skills__vue {
+  width: 75%;
+}
+
+.skills__openai {
+  width: 80%;
+}
+
+.skills__langchain {
+  width: 70%;
+}
+
+.skills__copilot {
+  width: 85%;
+}
+
+.about__container.about__container--solo {
+  grid-template-columns: 1fr;
+  max-width: 700px;
+}
+
+.skills__claude {
+  width: 90%;
+}
+
+.skills__aws {
+  width: 75%;
+}
+
+.skills__firebase {
+  width: 80%;
+}
+
+.skills__vercel {
+  width: 85%;
+}
+
+.skills__cicd {
+  width: 75%;
 }
 
 .skills__angular {
